@@ -28,5 +28,5 @@ Naoki Shima, Yotaro Matsui (2025). Harmonious Value Constructivism: An Active�
 ```
 
 ## License / ライセンス
-MIT License (コード) | CC‑BY 4.0 (文章)
+MIT License | CC‑BY
 
