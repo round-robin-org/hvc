@@ -27,6 +27,6 @@ Issues, pull requests, and theoretical dialogue are welcome. See `CONTRIBUTING.m
 Naoki Shima, Yotaro Matsui (2025). Harmonious Value Constructivism: An Active‑Inference Account of Value.
 ```
 
-## License / ライセンス
+## License
 MIT License | CC‑BY
 
