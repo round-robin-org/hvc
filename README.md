@@ -1,38 +1,32 @@
-# Harmonious Value Constructivism (HVC)
+# Harmonious Value Constructivism (HVC) / 調和的価値構成論
 
-> **An information‑theoretic framework that unifies epistemic (Truth), ethical (Goodness), and aesthetic (Beauty) value as a single self‑organising feedback loop.**
+> **Uniting Truth, Goodness, and Beauty under an Active‑Inference view of history and value.**
 
-HVC extends the Free Energy Principle and Active Inference to describe how living and social systems recursively construct value while minimising surprise. By restating value dynamics in terms of variational free energy, HVC offers:
+HVC is an open research programme that re‑examines the genealogy of value—how it arises, stabilises, and transforms—through the lens of the Free Energy Principle. It departs from the classic separation of epistemic, ethical, and aesthetic domains and re‑integrates them as different *momenta* in a single adaptive process.
 
-* A quantitative grammar linking physics, cognition, and social evolution.
-* A principled route to design artificial and organisational systems that remain adaptive, robust, and *harmonious*.
+## Three‑Tier Value Construction (1〜3章の構成)
+| Layer | Guiding Question | Key Mechanism |
+|-------|-----------------|---------------|
+| **1. 原理的価値構成 (Principled)** | *What formal structure makes any value judgement possible?* | Prior beliefs that minimise *surprise* provide the transcendental grammar for Truth, Goodness, and Beauty. |
+| **2. 唯物的価値構成 (Material)** | *How do material constraints shape the emergence of value?* | Exchange modes (A Reciprocity, B Redistribution, C Market, D Association) appear as dependency regimes solving free‑energy minimisation under specific techno‑ecological conditions. |
+| **3. 実践的価値構成 (Practical)** | *How can societies intentionally cultivate harmonious value today?* | Policy design framed as active inference: agents update beliefs, enact preferred futures, and re‑write the landscape of possible values. |
 
-## Core Cycle
-| Stage | Intuition | Computational reading |
-|-------|-----------|-----------------------|
-| **Probabilistic World** | Reality begins as latent uncertainty. | A generative process with hidden states |
-| **Self‑Organisation** | Systems carve out boundaries that stabilise them. | Markov blankets minimise free energy |
-| **Computational Universality** | Critical regimes enable open‑ended structure. | Effective Turing‑complete dynamics |
-| **Differentiable World Models** | Internal models become amenable to gradient descent. | End‑to‑end learning of priors and policies |
-| **Inference = Perception + Action** | Acting is selecting the world one wishes to inhabit. | Policy selection by expected free energy |
-| **Value Loop** | Truth → Goodness → Beauty → Truth … | Trade‑offs: predictability, viability, exploration |
+This stratified view replaces older “core‑cycle” diagrams. Readers are encouraged to start with *1.1 Universal Form of Truth‑Goodness‑Beauty* in Chapter 1, where the argument is laid out most compactly.
 
-These phases iterate across scales, yielding layers—from cells and neural circuits to economies and cultures.
+## Historical Dynamics
+HVC recasts Karatani Kojin’s exchange‑mode theory in probabilistic terms, revealing historical transitions as phase shifts in collective belief networks. The framework predicts when and how a new mode—beyond the traditional A–D—might crystallise.
 
-## Exchange Modes Revisited
-Building on Karatani Kojin, HVC interprets the canonical exchange modes **A Reciprocity**, **B Redistribution**, **C Market**, and **D Association** as *dependency modes*: distinct free‑energy‑minimising solutions under different material and informational constraints. This perspective clarifies historical transitions and supports simulation of alternative futures.
+## Current Repository
+This repo contains drafts, code experiments, and discussion threads. The structure will evolve as the project crystallises.
 
-## Project Status
-This repository hosts working notes, reference code, and discussion threads. The project is at an exploratory stage—expect rapid iteration and occasional breaking changes.
+## Contributing / コントリビューション
+Issues, pull requests, and theoretical dialogue are welcome. See `CONTRIBUTING.md`.
 
-## How to Engage
-Issues, pull requests, and theoretical discussions are welcome. See `CONTRIBUTING.md` for guidelines.
-
-## Citation
-If HVC informs your work, please cite:
+## Citation / 引用
 ```text
-Shima N. (2025). Harmonious Value Constructivism: Toward an Active‑Inference Theory of Truth, Goodness, and Beauty. DOI:10.5281/zenodo.XXXXXXX
+Naoki Shima (2025). Harmonious Value Constructivism: An Active‑Inference Account of Value. DOI:10.5281/zenodo.XXXXXXX
 ```
 
-## License
-MIT License.
+## License / ライセンス
+MIT License (コード) | CC‑BY 4.0 (文章)
+
