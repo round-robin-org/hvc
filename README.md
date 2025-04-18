@@ -19,9 +19,6 @@ HVC recasts Karatani Kojin’s exchange‑mode theory in probabilistic terms, r
 ## Current Repository
 This repo contains drafts, code experiments, and discussion threads. The structure will evolve as the project crystallises.
 
-## Contributing
-Issues, pull requests, and theoretical dialogue are welcome. See `CONTRIBUTING.md`.
-
 ## Citation
 ```text
 Naoki Shima, Yotaro Matsui (2025). Harmonious Value Constructivism: An Active‑Inference Account of Value.
