@@ -16,3 +16,5 @@ We cannot, however, apprehend the principle of existence directly. As Kant obser
 Accordingly, this essay does not begin from that unreachable principle itself. Instead, it starts by explicitly describing and analyzing our current belief‑system. In particular, it focuses on the meta‑level structure revealed by the very belief that “we hold a belief‑system.” Concretely, I describe in formal terms how perception and cognition configure the world and cause values to emerge.
 
 Through this method I aim to approach the root of value’s dual nature and the dynamical principles of history. Crucially, our direct experiential objects are always ideas, not the dynamics themselves. Therefore idealist perspectives are profoundly practical—provided they are coupled with an understanding of the material mechanics that generate those ideas. Such an idealism, grounded in its material underpinnings, yields firmer practical power.
+
+**Translated by GPT o3**

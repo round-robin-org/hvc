@@ -90,11 +90,9 @@ $$
 したがって、自由エネルギー最小化とは、$`D_\mathrm {KL}[q(x)\mid\mid p(x\mid o)]`$を極力小さくするような$`q(x)`$を求める問題、すなわちベイズ推論（Bayesian inference）における経験的な信念確率$`p(x\mid o)`$に近似する問題と等価になる。
 
 また、自由エネルギー$`F[q,o]`$は以下の2つの式に変形できる。
-
 $$
 F[q,o]=\underbrace{-\mathbb E_{q(x)}[\ln p(o,x)]}_\text{energy}-\underbrace{\mathbb E_{q(x)}[-\ln q(x)]}_\text{Shannon's entropy}
 $$
-
 $$
 F[q,o]=\underbrace{\mathbb E_{q(x)}[\ln q(x)-\ln p(x)]}_\text{complexity}-\underbrace{\mathbb E{q(x)}[\ln p(o\mid x)]}_\text{accuracy}
 $$
